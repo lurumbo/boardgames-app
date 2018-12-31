@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Ticket to Ride Europe",
+        "category": ["Family"],
+        "thumbnail": "http://images.ctfassets.net/vkjgiq2qe0kh/4QsT1yADW0kACcqQEoAAOM/aa10fe2bb8f2d6bd9e4507ae2951c46c/pic66668.jpg",
+        "backgroundImage": "http://images.ctfassets.net/vkjgiq2qe0kh/3fnr7C9TN6OAoqAIuo6WeE/c76a2e9b5a104a18b13ac9d16cb5a687/Photo-Dec-02-10-22-09-PM.jpg",
+        "playingTime": "60",
+        "minPlayers": "2",
+        "maxPlayers": "5",
+        "age": "8",
+        "images": [],
+        "video": "",
+        "isExpansion": false,
+        "description": "El juego presenta un mapa de Europa con las principales ciudades unidas por trayectos. Los jugadores tendrán que cubrir diferentes rutas a fin de lograr completar sus cartas objetivo y ser los que más puntos acumulen a final de la partida. Para ello, el juego cuenta con pequeños vagones de plástico, cartas de vagón, cartas de destino y un mapa en el que se añade un resumen de las puntuaciones por recorrido."
+    },
+    {
+        "id": 2,
+        "name": "Dixit",
+        "category": ["Family"],
+        "thumbnail": "http://images.ctfassets.net/vkjgiq2qe0kh/voilQ8ctYyq0IoiwGGey0/89c53ebce7e541021c45389a5a20c0fa/pic3483909.jpg",
+        "backgroundImage": "https://cdn.thewirecutter.com/wp-content/uploads/2018/03/boardgamesforadults-lowres-7430.jpg",
+        "playingTime": "30",
+        "minPlayers": "3",
+        "maxPlayers": "6",
+        "age": "8",
+        "images": [],
+        "video": "",
+        "isExpansion": false,
+        "description": "La mecánica de juego consiste en que el narrador escoge una de sus seis cartas y, sin que ninguno de los otros jugadores la vea, diga alguna narración relacionada al dibujo de la carta. Después cada jugador escoge una carta de su mano que esté relacionada con la historia del narrador y se barajan todas para que no se sepa de quién es cada carta. Por lo tanto, la dificultad del juego radica en dar pistas de dificultad equilibrada, para evitar que todos o ninguno la adivinen. El resto de jugadores obtienen puntos si aciertan la carta del narrador o si otro jugador ha votado por su carta."
+    }
+]

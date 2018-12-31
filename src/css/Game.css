@@ -1,0 +1,57 @@
+.background {
+    position: relative;
+    background-size: cover;
+    height: 50vh;
+}
+
+.layer {
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.paper-container {
+    margin: -210px 30px 30px;
+    padding: 30px;
+    z-index: 3;
+    position: relative;
+    background: #FFFFFF;
+    box-shadow: 0 16px 24px 2px rgba(0, 0, 0, 0.14), 0 6px 30px 5px rgba(0, 0, 0, 0.12), 0 8px 10px -5px rgba(0, 0, 0, 0.2);
+    border-radius: 6px;    
+}
+
+@media (max-width: 830px) {
+    .paper-container {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+}
+
+.avatar {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+    box-sizing: border-box;
+    align-items: center;
+    margin-bottom: 25px;      
+}
+
+.avatar img {
+    height: 120px;
+    width: 120px;
+    text-align: center;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.grid-container {
+    margin-top: 20px;
+}
+
+.grid-item {
+    padding: 20px;
+}

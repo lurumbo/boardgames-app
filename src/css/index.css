@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+.align-center {
+    text-align: center;
+}
+
+.not-underline {
+    text-decoration: none;    
+}
+
+.white {
+    color: white;
+}
+
+.primary {
+    color: #2196f3;
+}
+
+.title-1, 
+.title-2,
+.title-3,
+.title-4,
+.title-5,
+.title-6 {
+    color: rgba(0, 0, 0, 0.87);
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
+
+.title-1 {
+    font-size: 6rem;
+    font-weight: 300;
+    line-height: 1;
+    letter-spacing: -0.01562em;
+}
+
+.title-2 {
+    font-size: 3.75rem;
+    font-weight: 300;
+    line-height: 1;
+    letter-spacing: -0.00833em;
+}
+
+.title-3 {    
+    font-size: 3rem;
+    font-weight: 400;
+    line-height: 1.04;
+    letter-spacing: 0em;
+}
+
+.title-4 {    
+    font-size: 2.125rem;
+    font-weight: 400;
+    line-height: 1.17;
+    letter-spacing: 0.00735em;
+}
