@@ -1,3 +1,13 @@
+## Board Games App
+
+This is simply a list of my favorite board games, made with React and Material UI.
+
+If you wish, you can see a [demo](https://lurumbo.github.io/) :)
+
+Hosted by [GitHub Pages](https://pages.github.com/)
+
+-------------------------------------------------------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
